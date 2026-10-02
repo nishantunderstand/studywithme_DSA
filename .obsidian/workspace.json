@@ -51,9 +51,54 @@
               "icon": "lucide-file",
               "title": "Fast And Slow Pointer Grokking"
             }
+          },
+          {
+            "id": "82f4cf997fd201d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Merge Interval Pointer Grokking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Merge Interval Pointer Grokking"
+            }
+          },
+          {
+            "id": "1e46dff72b930c05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cycle Sort Pointer Grokking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Cycle Sort Pointer Grokking"
+            }
+          },
+          {
+            "id": "f1d82401720eec31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InPlace Reversal LL Grokking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "InPlace Reversal LL Grokking"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.3000183105469
+    "width": 342.3000183105469,
+    "collapsed": true
   },
   "right": {
     "id": "3a72b6a7926b8e9e",
@@ -211,12 +257,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "120f4a963d85777c",
+  "active": "1e46dff72b930c05",
   "lastOpenFiles": [
+    "InPlace Reversal LL Grokking.md",
+    "Cycle Sort Pointer Grokking.md",
+    "Merge Interval Pointer Grokking.md",
+    "SlidingWindow Grokking.md",
     "TwoPointer Grokking.md",
     "Fast And Slow Pointer Grokking.md",
     "README.md",
-    "SlidingWindow Grokking.md",
     "Images/DSA Motivation Image.png",
     "Pasted image 20261002110905.png",
     "Excalidraw/EY HR.excalidraw.md",
@@ -238,9 +287,6 @@
     "!Archive/DevOps/Docker SpringBootApplication 1 Containerize.md",
     "!Archive/DevOps/Docker File Structure.md",
     "!Archive/DevOps/Docker Networking 4 Expose vs -p.md",
-    "!Archive/DevOps/Docker Networking 3 Expose.md",
-    "!Archive/DevOps/Docker Introduction.md",
-    "!Archive/DevOps/Docker Histroy.md",
     "Images/Microservice-Communication-Ways.png",
     "Images/OSI Model Images.png",
     "Images/Kafka Parallelism Images.png",

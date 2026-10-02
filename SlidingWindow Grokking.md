@@ -1,7 +1,7 @@
 - [x] [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) (643)
 - [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (209)
 - [x] [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) (340)
-- [ ] [Longest Substring with At Most K Distinct Characters GFG](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)  👈👈👈👈👈
+- [ ] [Longest Substring with At Most K Distinct Characters](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)  (GFG) 👈👈👈👈👈
 - [x] [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) (904)
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (3)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) (424)  👈👈👈👈👈
