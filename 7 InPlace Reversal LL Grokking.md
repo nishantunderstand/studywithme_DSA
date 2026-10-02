@@ -1,4 +1,4 @@
-[[Fast And Slow Pointer Grokking]]
+[[4 Fast And Slow Pointer Grokking]]
 
 - [x] [Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/) (206) | Why curr!=null isused 
 - [ ] [Reverse a Sub-list](https://leetcode.com/problems/reverse-linked-list-ii/) (92)

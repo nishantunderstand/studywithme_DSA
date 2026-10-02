@@ -4,68 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "ddf19b5542278b59",
+        "id": "519cbc5f25af81e7",
         "type": "tabs",
         "children": [
           {
-            "id": "3049aeb6a55f2034",
+            "id": "6914d41174c47e94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SubSet Grokking.md",
+                "file": "2 SlidingWindow Grokking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SubSet Grokking"
-            }
-          },
-          {
-            "id": "ec6e86c2cc7fb0b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "4f89940e58c74a38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bitwise XOR Grokking.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Bitwise XOR Grokking"
-            }
-          },
-          {
-            "id": "cee0d5fe40f91371",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/DSA Motivation Image.png"
-              },
-              "icon": "lucide-image",
-              "title": "DSA Motivation Image"
+              "title": "2 SlidingWindow Grokking"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,23 +180,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cee0d5fe40f91371",
+  "active": "6914d41174c47e94",
   "lastOpenFiles": [
+    "_Grokking the Coding Interview Index.md",
+    "14 Top K Elements Grokking.md",
+    "15 K Way Merge Grokking.md",
+    "16 Pattern  0 or 1 Knapsack (Dynamic Programming).md",
+    "17 Pattern Topological Sort (Graph).md",
+    "2 SlidingWindow Grokking.md",
+    "3 TwoPointer Grokking.md",
+    "4 Fast And Slow Pointer Grokking.md",
+    "5 Merge Interval Pointer Grokking.md",
+    "6 Cycle Sort Pointer Grokking.md",
+    "7 InPlace Reversal LL Grokking.md",
+    "8 BFS Tree Breadth First Search Grokking.md",
+    "9 DFS Tree Depth First Search.md",
+    "10 Two Heaps Grokking.md",
+    "11 SubSet Grokking.md",
+    "12 BinarySearch Grokking.md",
+    "13 Bitwise XOR Grokking.md",
     "README.md",
-    "Top K Elements Grokking.md",
-    "Untitled.md",
-    "Bitwise XOR Grokking.md",
-    "BinarySearch Grokking.md",
-    "SubSet Grokking.md",
-    "BFS Tree Breadth First Search Grokking.md",
-    "DFS Tree Depth First Search.md",
-    "Two Heaps Grokking.md",
-    "TwoPointer Grokking.md",
-    "Merge Interval Pointer Grokking.md",
-    "SlidingWindow Grokking.md",
-    "InPlace Reversal LL Grokking.md",
-    "Fast And Slow Pointer Grokking.md",
-    "Cycle Sort Pointer Grokking.md",
     "Images/DSA Motivation Image.png",
     "Pasted image 20261002110905.png",
     "Excalidraw/EY HR.excalidraw.md",
@@ -250,9 +210,6 @@
     "Excalidraw/AWS IAM.excalidraw.md",
     "Excalidraw/AWS VPC.excalidraw.md",
     "!Archive/DevOps/AWS S3 Working.md",
-    "!Archive/DevOps/AWS S3.md",
-    "!Archive/DevOps/AWS RDS Interview.md",
-    "!Archive/DevOps/AWS RDS.md",
     "Images/Microservice-Communication-Ways.png",
     "Images/OSI Model Images.png",
     "Images/Kafka Parallelism Images.png",
