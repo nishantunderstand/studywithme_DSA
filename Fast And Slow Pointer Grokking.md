@@ -5,8 +5,6 @@
 - [x] [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/) (234)  👈👈👈👈👈
 - [ ] [Rearrange a LinkedList](https://leetcode.com/problems/reorder-list/) (143)
 - [ ] [Cycle in a Circular Array](https://leetcode.com/problems/circular-array-loop/) (457)
-
-
 ---
 Intution :
 1. Fast and Slow Pointer

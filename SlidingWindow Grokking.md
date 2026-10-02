@@ -8,6 +8,7 @@
 - [ ] [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) (1493)
 
 Hard Level 
+
 - [ ] [Permutation in a String](https://leetcode.com/problems/permutation-in-string/) (567)
 - [ ] [String Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (438)
 - [ ] [Smallest Window containing Substring](https://leetcode.com/problems/minimum-window-substring/) (76)
@@ -15,12 +16,14 @@ Hard Level
 - [ ] [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) (1493)
 
 ---
+
 Refrence Video Links 
 - https://www.youtube.com/watch?v=dvXyTOYVxB8
 - https://www.youtube.com/watch?v=U2ppEzBaMck
 - https://www.youtube.com/watch?v=ExY8svHF_Eo
 
 ---
+
 Intution 
 1. Start From SlidingWindow 
 2. HashSet or HashMap (Frequency or Position)

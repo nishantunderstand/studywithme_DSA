@@ -1,0 +1,7 @@
+- [x] [Binary Tree Path Sum](https://leetcode.com/problems/path-sum/) (112)  👈👈👈👈👈
+- [ ] [All Paths for a Sum](https://leetcode.com/problems/path-sum-ii/) (113)
+- [ ] [Sum of Path Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) (129)
+- [ ] [Path With Given Sequence](https://leetcode.com/problems/path-sum-iv/) (666)
+- [ ] [Count Paths for a Sum](https://leetcode.com/problems/path-sum-iii/) (437)
+- [ ] [Tree Diameter](https://leetcode.com/problems/diameter-of-binary-tree/) (543)
+- [ ] [Path with Maximum Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) (124)
