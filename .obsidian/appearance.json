@@ -1,0 +1,11 @@
+{
+  "showRibbon": true,
+  "cssTheme": "Tokyo Night",
+  "accentColor": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "omini-search"
+  ],
+  "nativeMenus": false,
+  "showViewHeader": true
+}

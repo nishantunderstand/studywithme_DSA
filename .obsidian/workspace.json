@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "6b79eae6d97ee4bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa2ddf7299257828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d9fdce0fd0e6aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlidingWindow Grokking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "SlidingWindow Grokking"
+            }
+          },
+          {
+            "id": "61c115661159fd19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TwoPointer Grokking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TwoPointer Grokking"
+            }
+          },
+          {
+            "id": "120f4a963d85777c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fast And Slow Pointer Grokking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Fast And Slow Pointer Grokking"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2a31d9aee8ecb07",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c611b023649ae5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fb4ff69ae072b58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "14ce16a010509418",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7dfbd990ab059d34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.3000183105469
+  },
+  "right": {
+    "id": "3a72b6a7926b8e9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "946d07a776d03078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a73d7ce4ac4abd2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f578d3e813ac3874",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "!Archive/DevOps/Kubernetes Interview.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "5bbacd6b8487f016",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/!Archive/Kafka Architecuture.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ee004f3124ab0279",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index/AWS Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 394.2999267578125,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": true,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": true,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "120f4a963d85777c",
+  "lastOpenFiles": [
+    "TwoPointer Grokking.md",
+    "Fast And Slow Pointer Grokking.md",
+    "README.md",
+    "SlidingWindow Grokking.md",
+    "Images/DSA Motivation Image.png",
+    "Pasted image 20261002110905.png",
+    "Excalidraw/EY HR.excalidraw.md",
+    "Index/AWS Index.md",
+    "Excalidraw/AWS EC2.excalidraw.md",
+    "Excalidraw/AWS S3.excalidraw.md",
+    "Excalidraw/AWS RDS.excalidraw.md",
+    "Excalidraw/AWS IAM.excalidraw.md",
+    "Excalidraw/AWS VPC.excalidraw.md",
+    "!Archive/DevOps/AWS S3 Working.md",
+    "!Archive/DevOps/AWS S3.md",
+    "!Archive/DevOps/AWS RDS Interview.md",
+    "!Archive/DevOps/AWS RDS.md",
+    "!Archive/DevOps/AWS Interview Question.md",
+    "!Archive/DevOps/AWS TOC.md",
+    "!Archive/DevOps/AWS.md",
+    "Index/Docker Index.md",
+    "!Archive/DevOps/Docker Networking 1.md",
+    "!Archive/DevOps/Docker SpringBootApplication 1 Containerize.md",
+    "!Archive/DevOps/Docker File Structure.md",
+    "!Archive/DevOps/Docker Networking 4 Expose vs -p.md",
+    "!Archive/DevOps/Docker Networking 3 Expose.md",
+    "!Archive/DevOps/Docker Introduction.md",
+    "!Archive/DevOps/Docker Histroy.md",
+    "Images/Microservice-Communication-Ways.png",
+    "Images/OSI Model Images.png",
+    "Images/Kafka Parallelism Images.png",
+    "Images/EC2 Stop Instanace Image.png",
+    "Images/CAP Theorem Image.png",
+    "Study 101.excalidraw 1.pdf",
+    "Images/HTTP-Stages.png",
+    "Images/System Design Hashing Consistent.png",
+    "Images/Forgetting Curve.png",
+    "Excalidraw/!Archive/Database CDC.excalidraw",
+    "TEST",
+    "Images/Docker-Container-LifeCycle image.png.~tmp",
+    "!Archive/!Archive.zip",
+    "!Archive/Interview Other CJC/z__VS-Code_NoSuggestion.code-workspace",
+    "!Archive/Interview Other CJC/_VS-Code_NoSuggestion.code-workspace",
+    "!Archive/Interview Other CJC/ByOther-CJC.zip",
+    "!Archive/Interview Other CJC",
+    "!Archive/Interview ByOther CJC/_VS-Code_NoSuggestion.code-workspace",
+    "Untitled.canvas"
+  ]
+}

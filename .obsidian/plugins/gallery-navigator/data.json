@@ -1,0 +1,40 @@
+{
+  "lastPath": "",
+  "cardWidth": 120,
+  "sort": "new",
+  "folderOrder": {},
+  "hiddenFolders": [],
+  "folderColors": {},
+  "expandedFolders": [],
+  "treeWidth": 232,
+  "treeCollapsed": false,
+  "syncActive": true,
+  "leftMode": "folder",
+  "activeTag": "",
+  "expandedTags": [],
+  "cardColors": {},
+  "noPreviewFolders": [],
+  "folderLayouts": {},
+  "favorites": [],
+  "pinnedCards": [],
+  "lang": "en",
+  "openUnfocused": true,
+  "imageCardLayout": "stacked",
+  "autoCardColor": false,
+  "enablePeek": true,
+  "enableLinkCards": true,
+  "enableCleanLink": true,
+  "peek": {
+    "dblclickToOpen": true,
+    "spaceToOpen": true,
+    "showActions": true,
+    "backdropBlur": true,
+    "excludeSelectors": "[class*=\"lcp-\"]",
+    "mocPath": "",
+    "relatedCount": 6
+  },
+  "linkcard": {
+    "threadsPasteInsert": true,
+    "youtubeCanvasEmbed": false
+  }
+}
