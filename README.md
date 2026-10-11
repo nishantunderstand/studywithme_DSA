@@ -71,3 +71,13 @@ Alternative GFG.
 
 Please Install those Extension.
 
+
+
+
+---
+
+
+git rm -r --cached .obsidian .vscode
+git add .gitignore
+git commit -m "Remove IDE settings from version control"
+git push origin main
