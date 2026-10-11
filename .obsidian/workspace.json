@@ -4,25 +4,141 @@
     "type": "split",
     "children": [
       {
-        "id": "519cbc5f25af81e7",
+        "id": "6b1bfb8aaa72bace",
         "type": "tabs",
         "children": [
           {
-            "id": "6914d41174c47e94",
+            "id": "843a8794932e971d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TwoPointer Grokking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "TwoPointer Grokking"
+            }
+          },
+          {
+            "id": "32c9f855cddc58cc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SlidingWindow Grokking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "SlidingWindow Grokking"
+            }
+          },
+          {
+            "id": "b91a2bf3bc160eba",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fast And Slow Pointer Grokking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Fast And Slow Pointer Grokking"
+            }
+          },
+          {
+            "id": "f39295886f2b36f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 SlidingWindow Grokking.md",
+                "file": "7 InPlace Reversal LL Grokking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2 SlidingWindow Grokking"
+              "title": "7 InPlace Reversal LL Grokking"
+            }
+          },
+          {
+            "id": "db2c8453d71b3cd1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA Pattern Reconginzation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DSA Pattern Reconginzation"
+            }
+          },
+          {
+            "id": "b53e4b33d334530e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BinarySearch Grokking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "BinarySearch Grokking"
+            }
+          },
+          {
+            "id": "1de7187ef8378f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Two Heaps Grokking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "10 Two Heaps Grokking"
+            }
+          },
+          {
+            "id": "16c8883b1a57d26f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 BFS Tree Breadth First Search Grokking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "8 BFS Tree Breadth First Search Grokking"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -42,7 +158,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -56,7 +172,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Grokking",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,7 +184,7 @@
             }
           },
           {
-            "id": "7dfbd990ab059d34",
+            "id": "6d39eda5c87ddd4f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.3000183105469
+    "width": 295.1000061035156,
+    "collapsed": true
   },
   "right": {
     "id": "3a72b6a7926b8e9e",
@@ -110,27 +227,12 @@
             }
           },
           {
-            "id": "f578d3e813ac3874",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "!Archive/DevOps/Kubernetes Interview.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "5bbacd6b8487f016",
+            "id": "6dd94f2ce7c7e92f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/!Archive/Kafka Architecuture.excalidraw.md",
+                "file": "8 BFS Tree Breadth First Search Grokking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,25 +246,38 @@
             }
           },
           {
-            "id": "ee004f3124ab0279",
+            "id": "6ff4644c3584a5b0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index/AWS Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
             }
+          },
+          {
+            "id": "0b01890be21ad9f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 394.2999267578125,
+    "width": 427.0999755859375,
     "collapsed": true
   },
   "left-ribbon": {
@@ -175,59 +290,57 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": true,
       "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": true,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false
+      "workspaces:Manage workspace layouts": true
     }
   },
-  "active": "6914d41174c47e94",
+  "active": "16c8883b1a57d26f",
   "lastOpenFiles": [
-    "_Grokking the Coding Interview Index.md",
-    "14 Top K Elements Grokking.md",
+    "Grokking the Coding Interview Index.md",
     "15 K Way Merge Grokking.md",
-    "16 Pattern  0 or 1 Knapsack (Dynamic Programming).md",
-    "17 Pattern Topological Sort (Graph).md",
-    "2 SlidingWindow Grokking.md",
-    "3 TwoPointer Grokking.md",
-    "4 Fast And Slow Pointer Grokking.md",
-    "5 Merge Interval Pointer Grokking.md",
-    "6 Cycle Sort Pointer Grokking.md",
-    "7 InPlace Reversal LL Grokking.md",
-    "8 BFS Tree Breadth First Search Grokking.md",
-    "9 DFS Tree Depth First Search.md",
+    "BinarySearch Grokking.md",
     "10 Two Heaps Grokking.md",
-    "11 SubSet Grokking.md",
-    "12 BinarySearch Grokking.md",
-    "13 Bitwise XOR Grokking.md",
-    "README.md",
+    "TwoPointer Grokking.md",
+    "SlidingWindow Grokking.md",
+    "DSA Pattern Reconginzation.md",
+    "7 InPlace Reversal LL Grokking.md",
+    "Fast And Slow Pointer Grokking.md",
+    "Pasted image 20261011144648.png",
+    "-6 Cycle Sort Pointer Grokking.md",
+    "Motivation 10a.md",
+    "Motivation 600.md",
+    "Motivation 500.md",
+    "Motivation 9a.md",
+    "Motivation 105.md",
+    "Motivation 10.md",
+    "Motivation 9.md",
+    "Array.md",
+    "17 Pattern Topological Sort (Graph).md",
+    "DSA Most Frequest Question PDF.pdf",
+    "Images/Motivation 50 LPA Job Image.png",
+    "Motivation 111.md",
     "Images/DSA Motivation Image.png",
-    "Pasted image 20261002110905.png",
-    "Excalidraw/EY HR.excalidraw.md",
-    "Index/AWS Index.md",
-    "Excalidraw/AWS EC2.excalidraw.md",
-    "Excalidraw/AWS S3.excalidraw.md",
-    "Excalidraw/AWS RDS.excalidraw.md",
-    "Excalidraw/AWS IAM.excalidraw.md",
-    "Excalidraw/AWS VPC.excalidraw.md",
-    "!Archive/DevOps/AWS S3 Working.md",
-    "Images/Microservice-Communication-Ways.png",
-    "Images/OSI Model Images.png",
-    "Images/Kafka Parallelism Images.png",
-    "Images/EC2 Stop Instanace Image.png",
-    "Images/CAP Theorem Image.png",
-    "Study 101.excalidraw 1.pdf",
-    "Images/HTTP-Stages.png",
-    "Images/System Design Hashing Consistent.png",
-    "Images/Forgetting Curve.png",
-    "Excalidraw/!Archive/Database CDC.excalidraw",
-    "TEST",
-    "Images/Docker-Container-LifeCycle image.png.~tmp",
-    "!Archive/!Archive.zip",
-    "!Archive/Interview Other CJC/z__VS-Code_NoSuggestion.code-workspace",
-    "!Archive/Interview Other CJC/_VS-Code_NoSuggestion.code-workspace",
-    "!Archive/Interview Other CJC/ByOther-CJC.zip",
-    "!Archive/Interview Other CJC",
-    "!Archive/Interview ByOther CJC/_VS-Code_NoSuggestion.code-workspace",
+    "README.md",
+    "Untitled.md",
+    "5 Merge Interval Pointer Grokking.md",
+    "DSA/DSA-Rules.md",
+    "DSA/DSA-Pratice.md",
+    "inbox-3.md",
+    "Data-Structure-and-Algorithm-2.png",
+    "Data-Structure-and-Algorithm-1.png",
+    "Data Structure Begineer to Advanced Guide.pdf",
+    "Images/HTTPS-Stages Image.png",
+    "Images/HTTP-Stages Image.png",
+    "Images/Java 8 11 17 21 25 Rise Image.png",
+    "Pasted image 20261009131807.png",
+    "Pasted image 20261009131813.png",
+    "Excalidraw/Microservice Database CDC.excalidraw",
+    "Excalidraw/Microservice Excalidraw/Microservice Database CDC.excalidraw",
+    "AWS",
+    "Excalidraw/System Design Excalidraw",
+    "Excalidraw/Study 101 Excalidraw",
+    "Excalidraw/Spring Excalidraw",
+    "Excalidraw/Microservice Excalidraw",
+    "Excalidraw/Kafka Excalidraw",
     "Untitled.canvas"
   ]
 }

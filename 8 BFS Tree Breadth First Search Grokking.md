@@ -1,5 +1,5 @@
-- [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (102)  👈👈👈👈👈
-- [x] [Reverse Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) (107)  👈👈👈👈👈
+- [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (102)  
+- [x] [Reverse Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) (107)  
 - [ ] [Zigzag Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (103)
 - [ ] [Level Averages in a Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) (637)
 - [ ] [Minimum Depth of a Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) (111)

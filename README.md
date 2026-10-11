@@ -1,3 +1,21 @@
+
+D:\Grokking the Coding Interview
+
+
+
+---
+
+At Top of Each Page 
+I will Write LC :  In lexiogrographically Order
+
+Source may Vary. But LC is the Source of Truth.
+Just Like DB.
+
+
+
+
+---
+
 `tree /F > !toc.md`
 
 [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) (1493)
@@ -53,7 +71,3 @@ Alternative GFG.
 
 Please Install those Extension.
 
-
-https://lnkd.in/p/gM776JZb
-
-![[DSA Motivation Image.png]]
