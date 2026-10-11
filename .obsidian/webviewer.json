@@ -1,6 +1,0 @@
-{
-  "openExternalURLs": false,
-  "enableAdblocking": true,
-  "searchEngine": "google",
-  "customSearchEngine": "https://www.google.com/search?q=%s"
-}

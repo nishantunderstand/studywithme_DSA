@@ -12,3 +12,19 @@
 # Ignore build outputs
 /target/
 *.class
+
+
+
+.claude
+node_modules/
+.env
+.code-workspace
+.bat
+.lnk
+.workspace
+.obsidian
+.bat
+
+
+.obsidian/
+.vscode/
