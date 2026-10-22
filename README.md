@@ -1,8 +1,6 @@
 
 D:\Grokking the Coding Interview
 
-
-
 ---
 
 At Top of Each Page 

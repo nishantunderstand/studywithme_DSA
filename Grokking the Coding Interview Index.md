@@ -2,7 +2,7 @@
 - [ ] [[TwoPointer Grokking]]
 - [ ] [[Fast And Slow Pointer Grokking]]
 - [ ] [[5 Merge Interval Pointer Grokking]]
-- [ ] [[-6 Cycle Sort Pointer Grokking]]
+- [ ] [[6 Cycle Sort Pointer Grokking]]
 - [ ] [[7 InPlace Reversal LL Grokking]]
 - [ ] [[8 BFS Tree Breadth First Search Grokking]]
 - [ ] [[9 DFS Tree Depth First Search]]
