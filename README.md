@@ -1,5 +1,15 @@
 
-D:\Grokking the Coding Interview
+- [DSA_Sheet](https://docs.google.com/spreadsheets/d/1V2K6DTRgcwMLNVXdUALKNjYJN49xPriYCvfBczrLMpU/edit?gid=915294125#gid=915294125)
+- At the end of session. 
+- You need to add Date.
+
+
+---
+
+
+
+
+- D:\Grokking the Coding Interview
 
 ---
 
@@ -8,9 +18,6 @@ I will Write LC :  In lexiogrographically Order
 
 Source may Vary. But LC is the Source of Truth.
 Just Like DB.
-
-
-
 
 ---
 

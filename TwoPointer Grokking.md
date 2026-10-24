@@ -13,8 +13,6 @@ LC : 1, 15, 16, 18, 26, 75, 713, 844, 977
 - [x] [Triplet Sum to Zero](https://leetcode.com/problems/3sum/) (15)  
 - [x] [Triplets with Smaller Sum](https://leetcode.com/problems/3sum-smaller/) (259)
 
-
-
 ---
 Intution
 1. left<=right is needed or not
@@ -23,7 +21,29 @@ Intution
 4. Use a real value when you're comparing **distance/difference** (LC : 16)
 5. `if(i>0 && nums[i]==nums[i-1]) continue;` Skip Duplicate Logic
 
+---
 
-Difference Kya hai ??
-end-start+1
-end-start
+There are 2 approaches for handling duplicates in triplets:
+
+### 1. Index-based count — duplicates allowed
+
+```
+ cnt += high-low
+```
+
+- Count every valid index combination.
+- Do not skip duplicates.
+- No `HashSet` required.
+### 2. Unique triplets — duplicates skipped
+
+When a valid triplet is found:
+
+```
+while (low < high && arr[low] == arr[low + 1]) low++;
+while (low < high && arr[high] == arr[high - 1]) high--;
+low++;
+high--;
+```
+
+- Skip repeated values to avoid duplicate triplets.
+- Store each unique triplet in the result list.
