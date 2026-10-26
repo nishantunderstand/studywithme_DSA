@@ -1,6 +1,6 @@
 - [ ] [Cycle in a Circular Array](https://leetcode.com/problems/circular-array-loop/) (457)
-- [ ] [Happy Number](https://leetcode.com/problems/happy-number/) (202)  
-- [ ] [Start of LinkedList Cycle](https://leetcode.com/problems/linked-list-cycle-ii/) (142)  
+- [x] [Happy Number](https://leetcode.com/problems/happy-number/) (202)  
+- [x] [Start of LinkedList Cycle](https://leetcode.com/problems/linked-list-cycle-ii/) (142)  
 - [x] [LinkedList Cycle](https://leetcode.com/problems/linked-list-cycle/) (141)
 - [x] [Middle of the LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/) (876) 
 - [x] [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/) (234)  

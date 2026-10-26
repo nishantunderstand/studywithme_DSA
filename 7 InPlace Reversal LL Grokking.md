@@ -33,3 +33,6 @@ class Solution {
 
 
 You need to understand Rerverse a LL With a Deep Understanding.
+
+---
+If there is change that head will get changed then use Dummy Node concept ?

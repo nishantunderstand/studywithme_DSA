@@ -1,8 +1,8 @@
 LC : 3,209,340,424,643,904,1493
 
-- [ ] [Permutation in a String](https://leetcode.com/problems/permutation-in-string/) (567)
+- [x] [Permutation in a String](https://leetcode.com/problems/permutation-in-string/) (567)
 - [ ] [Smallest Window containing Substring](https://leetcode.com/problems/minimum-window-substring/) (76)
-- [ ] [String Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (438)
+- [x] [String Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (438)
 - [ ] [Words Concatenation](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) (30)
 - [x] [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) (904)
 - [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) (424)  
@@ -12,8 +12,6 @@ LC : 3,209,340,424,643,904,1493
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (3)
 - [x] [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) (643)
 - [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (209)
-
-
 ---
 Refrence Video Links 
 - https://www.youtube.com/watch?v=dvXyTOYVxB8

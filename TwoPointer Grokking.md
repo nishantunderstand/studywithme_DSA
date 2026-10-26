@@ -1,9 +1,9 @@
 LC : 1, 15, 16, 18, 26, 75, 713, 844, 977
 
 - [ ] [Minimum Window Sort](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) (581)
-- [ ] [Quadruple Sum to Target](https://leetcode.com/problems/4sum/) (18)
-- [ ] [Subarrays with Product Less than a Target](https://leetcode.com/problems/subarray-product-less-than-k/) (713)
-- [ ] [Triplets with Smaller Sum](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1 ) (259) (GFG)  
+- [x] [Quadruple Sum to Target](https://leetcode.com/problems/4sum/) (18)
+- [x] [Subarrays with Product Less than a Target](https://leetcode.com/problems/subarray-product-less-than-k/) (713)
+- [x] [Triplets with Smaller Sum](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1 ) (259) (GFG)  
 - [x] [Comparing Strings containing Backspaces](https://leetcode.com/problems/backspace-string-compare/) (844)
 - [x] [Dutch National Flag Problem](https://leetcode.com/problems/sort-colors/) (75) 
 - [x] [Pair with Target Sum](https://leetcode.com/problems/two-sum/) (1)  
@@ -47,3 +47,8 @@ high--;
 
 - Skip repeated values to avoid duplicate triplets.
 - Store each unique triplet in the result list.
+
+
+---
+
+https://www.youtube.com/watch?v=JKcX5k00oaA
