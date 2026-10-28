@@ -1,5 +1,11 @@
 Thita AI 
 
+https://gronex.org/
+https://thita.ai/
+
+https://seanprashad.com/leetcode-patterns/
+
+
 
 ---
 
