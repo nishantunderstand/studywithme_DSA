@@ -1,7 +1,7 @@
 - [x] [[SlidingWindow Grokking]]
 - [x] [[TwoPointer Grokking]]
 - [x] [[Fast And Slow Pointer Grokking]]
-- [ ] [[5 Merge Interval Pointer Grokking]]
+- [ ] [[Merge Interval Pointer Grokking]]
 - [x] [[Cycle Sort Pointer Grokking]]
 - [ ] [[7 InPlace Reversal LL Grokking]]
 - [ ] [[8 BFS Tree Breadth First Search Grokking]]

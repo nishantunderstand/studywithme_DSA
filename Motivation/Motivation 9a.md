@@ -18,7 +18,6 @@ You recognize patterns instantly.
 
 https://www.linkedin.com/posts/akashsinnghh_my-friend-dsa-is-tough-me-not-for-me-share-7337907198347345920-Ta_E/
 
-
 ---
 
 I can create this System on 

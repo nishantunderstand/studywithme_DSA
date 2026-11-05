@@ -28,5 +28,4 @@ That's why I always tell students to:
 • Attempt assessments without looking at solutions
 • Put yourself in situations where you might fail
 
-
 **The goal is to find your gaps before an actual company finds them.**

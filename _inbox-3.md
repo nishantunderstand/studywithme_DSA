@@ -1,1 +1,0 @@
-https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time/
