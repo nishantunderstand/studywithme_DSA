@@ -1,5 +1,7 @@
 
 
+
+
 My Friend: DSA is tough.  
 Me: Not for me. I follow the 3-7-15 Rule.  
 But let me be honest —  
@@ -13,7 +15,8 @@ Solve a question 4 times:
 ✅ First time — Understand and solve it  
 ✅ After 3 days — Solve it again to remember  
 ✅ After 7 days — Solve it once more to get better  
-✅ After 15 days — Solve it one last time to make it stick in your mind  
+✅ After 15 days — Solve it one last time to make it stick in your mind 
+
 By the 4th time, your brain stops panicking.  
 You recognize patterns instantly.  
   
@@ -96,3 +99,22 @@ Whatsapp - https://lnkd.in/dvk8prj5
   
 Learn smart. Solve better.  
 Let’s crack it together
+
+
+
+---
+
+
+https://www.linkedin.com/posts/akashsinnghh_my-friend-dsa-is-tough-me-not-for-me-share-7337907198347345920-Ta_E/
+
+
+
+I can create this System on 
+Google Sheet 
+Notion
+
+---
+Suppose Today I solve 4 Question
+Now i want to add Jitter as well.
+
+

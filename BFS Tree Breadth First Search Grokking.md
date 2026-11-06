@@ -8,7 +8,7 @@
 - [ ] [Connect Level Order Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) (116)
 - [ ] [Connect Level Order Siblings-1](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) (117)
 - [ ] [Connect All Level Order Siblings](https://www.geeksforgeeks.org/connect-nodes-level-level-order-traversal/) (GFG)
-- [ ] [Right View of a Binary Tree](https://leetcode.com/problems/binary-tree-right-side-view/) (199)
+- [x] [Right View of a Binary Tree](https://leetcode.com/problems/binary-tree-right-side-view/) (199)
 
 https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1
 
@@ -26,3 +26,6 @@ https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
 https://www.youtube.com/watch?v=JgRsVsw_ZSw
 
 https://www.youtube.com/watch?v=zbA4yWuEoYE
+
+
+https://www.naukri.com/code360/problems/inorder-sucessor_799913

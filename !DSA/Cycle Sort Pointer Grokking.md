@@ -10,4 +10,5 @@ LC : 268, 448, 287, 442, 41, 1539
 
 ---
 
-https://www.youtube.com/watch?v=LLcjZ768dik  (Find Better Video)
+https://www.youtube.com/watch?v=LLcjZ768dik 
+- Find Better Video
