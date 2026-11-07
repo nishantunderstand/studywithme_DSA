@@ -10,7 +10,6 @@ Intution :
 1. Smallest -> maxHeap | You need to pass comparator ,Prefer Lambda One 
 2. Largest -> minHeap
 
-
 ---
 378 : PriortyQueue Approach 
 Do i need to solve it by Other Approach.

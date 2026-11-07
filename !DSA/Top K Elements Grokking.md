@@ -1,24 +1,26 @@
 - [x] [Top K Numbers](https://leetcode.com/problems/kth-largest-element-in-an-array/) (215)  
 - [x] [Kth Smallest Number](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) (378)  
 - [x] [K Closest Points to the Origin](https://leetcode.com/problems/k-closest-points-to-origin/) (973)  
-- [ ] [Connect Ropes](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) (1167)  
-- [ ] [Top K Frequent Numbers](https://leetcode.com/problems/top-k-frequent-elements/) (347)  
-- [ ] [Frequency Sort](https://leetcode.com/problems/sort-characters-by-frequency/) (451)  
-- [ ] [Kth Largest Number in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) (703)  
-- [ ] [K Closest Numbers](https://leetcode.com/problems/find-k-closest-elements/) (658)  
-- [ ] [Maximum Distinct Elements](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-removals/) (1481)  
+- [x] [Connect Ropes](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) (1167)  
+- [x] https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
+- [x] [Top K Frequent Numbers](https://leetcode.com/problems/top-k-frequent-elements/) (347)  
+- [x] [Frequency Sort](https://leetcode.com/problems/sort-characters-by-frequency/) (451)  
+- [x] [Kth Largest Number in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) (703)  
+- [x] [K Closest Numbers](https://leetcode.com/problems/find-k-closest-elements/) (658)  
+- [ ] [Maximum Distinct Elements](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/) (1481)  
 - [ ] [Sum of Elements](https://leetcode.com/problems/k-th-smallest-prime-fraction/) (786)  
 - [ ] [Rearrange String](https://leetcode.com/problems/reorganize-string/) (767)  
 - [ ] [Rearrange String K Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) (358)  
+- [ ] https://takeuforward.org/practice/dsa/rearrange-string-k-distance-apart
+- [ ] https://www.naukri.com/code360/problems/ninja-favourite-string_1460386
 - [ ] [Scheduling Tasks](https://leetcode.com/problems/task-scheduler/) (621)  
 - [ ] [Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) (895)
 
 ---
 Intution : 
 PriorityQueue | Heap 
-Min 
-Max 
-
+Min  : max Priority Queue
+Max : min Priority Queue
 
 ```java
 Queue<Integer> q1 = new LinkedList<>();      // FIFO
@@ -32,3 +34,12 @@ ArrayDeque<Integer> q5 = new ArrayDeque<>(); // Double-Ended Queue
 ---
 973 : You need to pratice the code Theory is correct
 Implementation is the issue.
+
+
+https://leetcode.com/problems/top-k-frequent-elements/description/
+
+
+https://leetcode.com/problems/kth-largest-element-in-a-stream/description/
+
+
+https://leetcode.com/problems/find-k-closest-elements/description/

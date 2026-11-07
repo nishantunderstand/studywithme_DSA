@@ -2,3 +2,9 @@
 - [ ] [Single Number III](https://leetcode.com/problems/single-number-iii/) (260)    👈👈👈👈👈
 - [ ] [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) (1009)
 - [ ] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) (832)
+
+
+https://leetcode.com/problems/single-number-ii/
+
+
+https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/
