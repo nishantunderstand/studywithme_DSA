@@ -11,6 +11,6 @@
 - [x] [[BinarySearch Grokking]]
 - [ ] [[Bitwise XOR Grokking]]
 - [ ] [[Top K Elements Grokking]]
-- [ ] [[15 K Way Merge Grokking]]
+- [ ] [[K Way Merge Grokking]]
 - [ ] [[16 Pattern  0 or 1 Knapsack (Dynamic Programming) Grokking]]
 - [ ] [[17 Pattern Topological Sort (Graph) Grokking]]

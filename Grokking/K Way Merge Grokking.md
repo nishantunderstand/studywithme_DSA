@@ -35,7 +35,17 @@ PriorityQueue<ListNode> minPQ = new PriorityQueue<>(
 PriorityQueue<Integer> minPQ = new PriorityQueue<>(
 			(a,b)->Integer.compare(map.get(a),map.get(b))
   );        
+  
+ PriorityQueue<int[]> maxPQ = new PriorityQueue<>(
+            (a, b) -> Integer.compare(b[0] + b[1], a[0] + a[1])
+        );
+				
+  
 ```
+
+
+
+
 
 - If you normal Datatype : You don't need to do anything.
 - But if you pass custom, Then you need to pass comparator.
