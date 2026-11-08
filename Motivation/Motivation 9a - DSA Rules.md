@@ -1,7 +1,3 @@
-
-
-
-
 My Friend: DSA is tough.  
 Me: Not for me. I follow the 3-7-15 Rule.  
 But let me be honest —  
