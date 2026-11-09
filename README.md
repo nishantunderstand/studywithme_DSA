@@ -13,7 +13,4 @@ Remember
 2. You need to pratice question to get full understanding 
 3. Notes cannot bridge the gap.
 4. Coding can bridge the gap.
-
-
-
 ---

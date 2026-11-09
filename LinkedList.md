@@ -21,3 +21,7 @@ LL Types :  (Same Question & Different LL)
 1. Single LL
 2. Circular LL
 3. Doubly LL 
+
+---
+Why Dummy Node ?
+- When there is an chance of head Movement.
