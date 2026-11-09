@@ -104,7 +104,6 @@ Let’s crack it together
 https://www.linkedin.com/posts/akashsinnghh_my-friend-dsa-is-tough-me-not-for-me-share-7337907198347345920-Ta_E/
 
 
-
 I can create this System on 
 Google Sheet 
 Notion
@@ -114,3 +113,9 @@ Suppose Today I solve 4 Question
 Now i want to add Jitter as well.
 
 
+
+
+
+---
+
+https://www.linkedin.com/posts/akashsinnghh_leetcode-was-hard-until-i-learned-these-15-share-7286646858163101696-0iPm/
