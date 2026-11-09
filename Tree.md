@@ -53,4 +53,80 @@ Tree Order
 ---
 1. Recursion Approach 
 2. Stack Approach
-You need to know both.
+You need to know both.  🤔🤔🤔 
+
+
+---
+Euler Diagram
+
+
+---
+
+
+https://leetcode.com/problems/binary-tree-inorder-traversal/description/
+
+
+https://www.geeksforgeeks.org/dsa/inorder-tree-traversal-without-recursion/
+
+
+Moris Order 
+
+
+---
+Height Of A Tree  🤔🤔🤔 
+1. By Node
+2. By Edge
+
+
+- [ ] [[DFS Tree Depth First Search Grokking]]
+- [ ] [[BFS Tree Breadth First Search Grokking]]
+
+
+
+---
+Diameter 
+1. Is it passing through root or not ?
+``
+```
+[ Diameter = leftHeight + rightHeight ]
+```
+
+https://leetcode.com/problems/diameter-of-binary-tree/description/
+
+Coding Approach : 
+- Approach 1: Using class-level variable (simplest)
+- Approach 2: Using an array (no class-level variable)
+
+
+
+```java
+// Leetcode : 543
+class Solution {
+    int maxi=0;    
+    public int diameterOfBinaryTree(TreeNode root) {
+        //dfsHeightByNode(root);
+        dfsHeightByEdge(root);
+        return maxi;
+    }
+
+    // Monday, December 30, 2024 11:23:09 PM
+    // Time Complexity:O(n) | Space Complexity:O(HeightOfTree)
+    public int dfsHeightByEdge(TreeNode root) {
+        if(root==null) return -1;
+        int left = dfsHeightByEdge(root.left);
+        int right = dfsHeightByEdge(root.right);
+        maxi = Math.max(maxi,left+right+2);  //<--
+        return 1 + Math.max(left,right);
+    }
+
+    // Monday, December 30, 2024 10:11:23 PM
+    // Time Complexity:O(n) | Space Complexity:O(HeightOfTree)
+    public int dfsHeightByNode(TreeNode root) {
+        if(root==null) return 0;        
+        int left = dfsHeightByNode(root.left);
+        int right = dfsHeightByNode(root.right);
+        maxi = Math.max(maxi,left+right);
+        return 1+ Math.max(left,right);  //<--
+    }
+}
+```

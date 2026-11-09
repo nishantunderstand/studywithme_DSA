@@ -33,7 +33,7 @@ while(low<=high)
 
 
 ---
-[[Array]]
+[[!DSA/Array]]
 
 ---
 - How to know array is ascending or descending ?   
