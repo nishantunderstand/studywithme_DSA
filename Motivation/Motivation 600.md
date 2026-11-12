@@ -1,4 +1,4 @@
-![[60 Minute Coding Question Image.png]]
+![[Motivation 60 Minute Coding Question Image.png]]
 
 https://www.linkedin.com/feed/update/urn:li:activity:7513595402831466496/
 
