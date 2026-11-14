@@ -27,7 +27,16 @@
 
 
 Thinking About Edge Case 
-1. Empty
-2. Single Node
-3. Last Node 
-4. General Node 
+1. Empty LL
+2. Single Node LL 
+3. Last Node  LL 
+4. General Node LL 
+
+---
+
+Node Delete
+1. By Position
+2. By Value 
+
+
+https://www.youtube.com/playlist?list=PL-Jc9J83PIiGRqcfZxxgOKovgLVd3znnq

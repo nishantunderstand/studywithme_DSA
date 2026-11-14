@@ -29,3 +29,10 @@ https://www.youtube.com/watch?v=zbA4yWuEoYE
 
 
 https://www.naukri.com/code360/problems/inorder-sucessor_799913
+
+
+[[Binary Tree]]
+
+
+
+https://www.youtube.com/playlist?list=PLQ7ZAf76c0ZM7k15502F8oSiRSQyBX6R0

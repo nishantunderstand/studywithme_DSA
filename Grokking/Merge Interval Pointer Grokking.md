@@ -58,7 +58,7 @@ When to use Horizontal / Vertical ?
 
 https://www.youtube.com/watch?v=9X0-4zSfd80&list=PLpIkg8OmuX-IOG_-Bv92l-EhuBQX28LOm&index=2
 
-[[Difference Array Technique]]
+[[Difference Array]]
 
 
 ![[Line-Sweep-3.png]]
@@ -67,3 +67,17 @@ https://www.youtube.com/watch?v=9X0-4zSfd80&list=PLpIkg8OmuX-IOG_-Bv92l-EhuBQX28
 ![[Line-Sweep-4.png]]
 
 ![[Line-Sweep-5.png]]
+
+
+---
+[[Line Sweep Alogrithm]]
+
+
+Interval Question
+1. Sort by StartTime
+2. Sort by EndTime 
+How to Know ?
+
+Line Sweep Algorithm 
+1. Difference Array
+2. TreeMap
