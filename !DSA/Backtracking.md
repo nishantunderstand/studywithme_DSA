@@ -15,7 +15,7 @@ You can use Global Variable Declaration to write clean Code in the interview.
 
 ---
 
-Backtracking
-Do
-Recurse
-Undo 
+Backtracking General Rule 
+- Do
+- Recurse
+- Undo 
