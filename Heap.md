@@ -24,7 +24,7 @@ Parent Node : ith Index
 
 Child Node : ith Index , How to find Parent Node ?  
 `Ceil Value [i/2] -1` 
-Integer Division
+Integer Division 
 
 
 Height of Tree h, Maximium No of Nodes in CBT will be : 
@@ -48,3 +48,26 @@ Range of Leave Nodes in CBT is
 | First Leaf  | `N/2`            |
 | Last Leaf   | `N-1`            |
 | Leaf Count  | `ceil(N/2)`      |
+
+
+
+https://www.youtube.com/watch?v=NFiYQGyL8rg&list=PLQ7ZAf76c0ZM7k15502F8oSiRSQyBX6R0&index=36
+
+
+Heapify
+
+
+Build Heap 
+
+
+
+Heapify Down or Sift Down
+Heapify Up or Sift Up
+
+
+
+Finding the **last non-leaf node** in a 0-based heap.
+- int index = heapSize / 2 - 1;
+- int index = (heapSize - 1) / 2;
+
+https://github.com/Tiwarishashwat/Java-Plus-DSA-Placement-Course/blob/main/Lecture-193%20-%20Heaps/code/MyHeap.java
