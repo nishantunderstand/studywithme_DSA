@@ -71,3 +71,65 @@ Finding the **last non-leaf node** in a 0-based heap.
 - int index = (heapSize - 1) / 2;
 
 https://github.com/Tiwarishashwat/Java-Plus-DSA-Placement-Course/blob/main/Lecture-193%20-%20Heaps/code/MyHeap.java
+
+
+https://www.geeksforgeeks.org/problems/heapify-the-vector--102013/1
+
+
+https://interviewing.io/questions/build-a-max-heap
+
+
+---
+# Heap Question
+
+Question can be solved with minHeap or maxHeap ?
+Then how to decide which one to pick ?
+
+`n*logk` < `n*logn`
+
+So in term of Time Complexity, Can you see the difference ?
+That's how we decide it..
+
+https://www.youtube.com/watch?v=4F06B-fYT9M
+
+
+
+Keyword : Largest, Frequent
+
+
+
+# Min Heap vs Max Heap
+
+| Operation                | Your Min Heap | Max Heap   |
+| ------------------------ | ------------- | ---------- |
+| Heap size                | k             | n          |
+| Insert                   | O(log k)      | O(log n)   |
+| Remove                   | O(log k)      | O(log n)   |
+| Peek                     | O(1)          | O(1)       |
+| Build using n insertions | O(n log k)    | O(n log n) |
+
+
+https://www.youtube.com/watch?v=1I2uRpdbiK0
+
+Heap Funnel Approach
+
+
+
+**smallest** : minHeap
+
+
+https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1
+
+https://www.geeksforgeeks.org/problems/k-sorted-array1610/1
+
+
+
+How to Handle Tie Breaker Case ?
+
+https://leetcode.com/problems/rank-transform-of-an-array/
+https://walkccc.me/LeetCode/problems/1331/#__tabbed_1_2
+
+https://www.youtube.com/watch?v=4N2uWBukf9c
+
+
+https://www.youtube.com/watch?v=CcUnNwwXGPw
