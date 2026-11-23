@@ -19,3 +19,7 @@ Backtracking General Rule
 - Do
 - Recurse
 - Undo 
+
+
+----
+https://www.youtube.com/playlist?list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI

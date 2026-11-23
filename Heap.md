@@ -133,3 +133,12 @@ https://www.youtube.com/watch?v=4N2uWBukf9c
 
 
 https://www.youtube.com/watch?v=CcUnNwwXGPw
+
+
+https://www.youtube.com/watch?v=KWgh9keTRAU
+
+K Sum  -> PQ
+https://ideone.com/Au3fou
+
+
+[[Set]]

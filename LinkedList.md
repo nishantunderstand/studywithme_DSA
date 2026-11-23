@@ -23,5 +23,19 @@ LL Types :  (Same Question & Different LL)
 3. Doubly LL 
 
 ---
-Why Dummy Node ?
+Why DummyNode ?
 - When there is an chance of head Movement.
+
+
+- What are the scenario, When we use dummyNode concept ?
+---
+Delete LL
+1. Value
+	1. Exists
+	2. Not Exists
+2. Node
+	1. Found 
+	2. Not Found 
+3. Position
+	1. Within Bound 
+	2. Out Of Bound 

@@ -1,8 +1,35 @@
-https://takeuforward.org/blogs/data-structure-and-algorithm/binary-tree-data-structure
+- [ ] [[Binary Tree]]
+- [ ] [[Binary Search Tree]]
+- [ ] [[Generic Tree]]
+- [ ] [[Generic Tree Pepcoding CrafterHack]]
+- [ ] [[Heap]]
+- [ ] [[Heap GFG]]
+
+
+Types 
 
 Binary Tree
-Binary Search Tree
+Binary Search Tree 
 General Tree
+Complete Search Tree | Heap
+
+
+
+
+
+
+
+
+----
+
+
+
+https://takeuforward.org/blogs/data-structure-and-algorithm/binary-tree-data-structure
+
+
+
+
+---
 
 
 LCA
@@ -130,3 +157,24 @@ class Solution {
     }
 }
 ```
+
+
+---
+
+https://www.linkedin.com/posts/trees-are-more-than-just-dfs-and-bfs-in-share-7527394143216758784-MqQ4/
+
+
+
+---
+
+
+
+
+https://www.youtube.com/playlist?list=PLvNVexrplJJxdpMCmo8SKjoxYv5gizgEK
+
+- Rising Brain 
+- I like her Content
+
+
+
+
