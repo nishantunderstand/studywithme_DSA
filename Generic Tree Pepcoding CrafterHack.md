@@ -4,8 +4,8 @@
 |  ✅  | 159 | Size Of A Generic Tree                                       |    Easy    |                    [Practice](https://crafterhack.com/problems/size-of-a-generic-tree)                    |
 |  ✅  | 160 | Maximum Value In A Generic Tree                              |    Easy    |               [Practice](https://crafterhack.com/problems/maximum-value-in-a-generic-tree)                |
 |  ✅  | 161 | Height Of A Generic Tree (In Terms Of Nodes)                 |    Easy    |          [Practice](https://crafterhack.com/problems/height-of-a-generic-tree-in-terms-of-nodes)          |
-|     | 162 | Traversals In A Generic Tree                                 |   Medium   |                 [Practice](https://crafterhack.com/problems/traversals-in-a-generic-tree)                 |
-|     | 163 | Level Order In A Generic Tree                                |   Medium   |                [Practice](https://crafterhack.com/problems/level-order-in-a-generic-tree)                 |
+|  #  | 162 | Traversals In A Generic Tree                                 |   Medium   |                 [Practice](https://crafterhack.com/problems/traversals-in-a-generic-tree)                 |
+|  #  | 163 | Level Order In A Generic Tree                                |   Medium   |                [Practice](https://crafterhack.com/problems/level-order-in-a-generic-tree)                 |
 |     | 164 | Level Order Linewise In Generic Tree                         |   Medium   |             [Practice](https://crafterhack.com/problems/level-order-linewise-in-generic-tree)             |
 |     | 165 | Generic Tree Traversal Level Order Line Wise - Zig Zag       |   Medium   |     [Practice](https://crafterhack.com/problems/generic-tree-traversal-level-order-line-wise-zig-zag)     |
 |     | 166 | Mirror A Generic Tree                                        |   Medium   |                    [Practice](https://crafterhack.com/problems/mirror-a-generic-tree)                     |
@@ -27,3 +27,6 @@
 
 
 ----
+
+Print Pattern
+R-P-A : Remove - Print - Add
